@@ -11,5 +11,5 @@ Tengjie Zhu<sup>1,\*</sup>, Zhuo Chen<sup>1,\*</sup>, Jingnan Gao<sup>1</sup>, [
 ### [Project Page](https://zhutengjie.github.io/Ref-MC2/) | [Paper (ArXiv)](https://arxiv.org/abs/2407.05771) 
 
 
-**The code is coming soon.**
+**The complete code is coming soon.**
 
