@@ -1,0 +1,20 @@
+{
+    "ref_mesh": "data/nerf_synthetic/materials",
+    "random_textures": true,
+    "isosurface" : "flexicubes",
+    "iter": 1000,
+    "save_interval": 50,
+    "texture_res": [ 1024, 1024 ],
+    "train_res": [800, 800],
+    "batch": 4,
+    "learning_rate": [0.03, 0.003],
+    "dmtet_grid" : 64,
+    "mesh_scale" : 2.4,
+    "validate" : true,
+    "n_samples" : 8,   
+    "display": [{"latlong" : true}, {"bsdf" : "kd"}, {"bsdf" : "ks"}, {"bsdf" : "normal"}],
+    "background" : "white",
+    "out_dir": "nerf_materials_test",
+    "depth": 2,
+    "finutune": true
+}

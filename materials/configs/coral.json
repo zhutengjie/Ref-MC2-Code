@@ -1,0 +1,20 @@
+{
+    "ref_mesh": "data/nerf_synthetic/coral",
+    "random_textures": true,
+    "isosurface" : "flexicubes",
+    "iter": 3000,
+    "save_interval": 50,
+    "texture_res": [ 1024, 1024 ],
+    "train_res": [1024, 768],
+    "batch": 4,
+    "learning_rate": [0.03, 0.003],
+    "dmtet_grid" : 64,
+    "mesh_scale" : 2.4,
+    "validate" : true,
+    "n_samples" : 8,   
+    "display": [{"latlong" : true}, {"bsdf" : "kd"}, {"bsdf" : "ks"}, {"bsdf" : "normal"}],
+    "background" : "white",
+    "out_dir": "coral_long",
+    "depth": 2,
+    "finutune": true
+}
