@@ -1,5 +1,5 @@
 {
-    "ref_mesh": "data/nerf_synthetic/coral",
+    "ref_mesh": "data/nero/coral",
     "random_textures": true,
     "isosurface" : "flexicubes",
     "iter": 3000,

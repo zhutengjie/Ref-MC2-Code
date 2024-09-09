@@ -1,0 +1,11 @@
+ninja 
+imageio 
+PyOpenGL 
+glfw 
+xatlas 
+gdown
+trimesh
+tqdm
+matplotlib
+torch_scatter
+ninja
