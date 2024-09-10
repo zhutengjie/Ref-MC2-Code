@@ -84,5 +84,5 @@ CUDA_VISIBLE_DEVICES=0 nohup python -u train.py --config configs/nerf_materials.
 We have used codes from the following repositories, and thanks for their excellent work.
 
 + **[Nvdiffrecmc](https://github.com/NVlabs/nvdiffrecmc)**
-+ **[FlexiCues](https://github.com/nv-tlabs/FlexiCubes)**
++ **[FlexiCubes](https://github.com/nv-tlabs/FlexiCubes)**
 + **[Nvdiffrec](https://github.com/NVlabs/nvdiffrec)**
