@@ -41,7 +41,7 @@ pip install kaolin==0.15.0 -f https://nvidia-kaolin.s3.us-east-2.amazonaws.com/t
 # Data
 
 
-In our material learning code, we provide our two sample geometries under the geo folder. One is **materials** in [NeRF synthetic dataset](https://drive.google.com/uc?export=download&id=18JxhpWD-4ZmuFKLzKlAw-w5PpzZxXOcG), and the other is **coral** in the [NeRO](https://github.com/liuyuan-pal/NeRO?tab=readme-ov-file) dataset. We have converted the format of the NeRO real dataset into (.**json**) format, which will come soon.
+In our material learning code, we provide our two sample geometries under the geo folder. One is **materials** in [NeRF synthetic dataset](https://drive.google.com/uc?export=download&id=18JxhpWD-4ZmuFKLzKlAw-w5PpzZxXOcG), and the other is **coral** in the [NeRO](https://github.com/liuyuan-pal/NeRO?tab=readme-ov-file) dataset. We have converted the format of the NeRO real dataset into (.**json**) format, the code for converting format will also be provided later.
 
 
 Please download the data set and organize it as follows：
@@ -81,7 +81,7 @@ CUDA_VISIBLE_DEVICES=0 nohup python -u train.py --config configs/nerf_materials.
 
 # Acknowledgement
 
-We have used codes from the following repositories, and thanks for their excellent work.
+We have borrowed codes from the following repositories, and thanks for their excellent work.
 
 + **[Nvdiffrecmc](https://github.com/NVlabs/nvdiffrecmc)**
 + **[FlexiCubes](https://github.com/nv-tlabs/FlexiCubes)**
