@@ -2,6 +2,8 @@
 
 **This repository is the official implementation repository of the paper, Multi-times Monte Carlo Rendering for Inter-reflection Reconstruction.**
 
+**NeurIPS 2024**
+
 Tengjie Zhu<sup>1,\*</sup>, Zhuo Chen<sup>1,\*</sup>, Jingnan Gao<sup>1</sup>, [Yichao Yan](https://daodaofr.github.io/)<sup>1</sup>, [Xiaokang Yang](https://english.seiee.sjtu.edu.cn/english/detail/842_802.htm)<sup>1</sup>
 
 <sup>1</sup>Shanghai Jiao Tong University
