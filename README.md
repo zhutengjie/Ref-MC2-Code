@@ -14,12 +14,17 @@ Shanghai Jiao Tong University
 
 ![pipeline](images/pipeline.png "pipeline")
 
+
 **The complete code is coming soon.**
 
 The code provides:
 
 - [x] Training code for learning PBR materials and environment light
 - [ ] Training code for learning the geometry
+
+# News
+
+- **[9/26/2024]** Ref-MC2 has been accepted by NeurIPS 2024.
 
 # Install
 
