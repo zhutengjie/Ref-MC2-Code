@@ -77,12 +77,11 @@ CUDA_VISIBLE_DEVICES=0 nohup python -u train.py --config configs/nerf_materials.
 # Citation
 
 ```
-@article{zhu2024multitimesmontecarlorendering,
+@InProceedings{zhu2024multitimesmontecarlorendering,
    author = {Tengjie Zhu and Zhuo Chen and Jingnan Gao and Yichao Yan and Xiaokang Yang},
    title = {Multi-times Monte Carlo Rendering for Inter-reflection Reconstruction},
    year = {2024},
-   eprint ={ 2407.05771},
-   archivePrefix={arXiv},
+   booktitle = {NeurIPS},
 }
 ```
 
