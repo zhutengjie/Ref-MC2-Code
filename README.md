@@ -20,7 +20,7 @@ Shanghai Jiao Tong University
 The code provides:
 
 - [x] Training code for learning PBR materials and environment light
-- [ ] Training code for learning the geometry
+- [x] Training code for learning the geometry, you can refer to [AniSDF](https://github.com/G-1nOnly/AniSDF) for geometry training.
 
 # News
 
